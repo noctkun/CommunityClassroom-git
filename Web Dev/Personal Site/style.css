@@ -1,10 +1,16 @@
+.gans {
+    height: 150px;
 
+}
 hr {
     border: none;
     border-top: dotted;
     width: 10%;
     border-width: 5px;
     border-color: grey;
+}
+h2 {
+    color: rgb(219, 13, 13);
 }
 h1 {
     color: #66BFBF;
@@ -14,5 +20,8 @@ h3 {
 }
 img {
     height: 200px;
+}
+.quote {
+    color: rgb(234, 12, 179);
 }
     
