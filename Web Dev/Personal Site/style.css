@@ -1,5 +1,7 @@
 .gans {
     height: 150px;
+    background-color: black;
+    border-radius: 100%;
 
 }
 hr {
@@ -20,6 +22,8 @@ h3 {
 }
 img {
     height: 200px;
+    background-color: #7c66bf;
+    border-radius: 100%;
 }
 .quote {
     color: rgb(234, 12, 179);
